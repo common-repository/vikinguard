@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vikinguard for woocommerce\n"
+"POT-Creation-Date: 2017-02-01 17:37+0100\n"
+"PO-Revision-Date: 2017-02-01 17:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: vikinguard.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: vikinguard.php:100
+msgid "to access, clik on:"
+msgstr ""
+
+#: vikinguard.php:120
+msgid "You do not have sufficient permissions to manage options for this blog."
+msgstr ""
+"No tiene permisos suficientes para gestionar las opciones para esta web."
+
+#: vikinguard.php:197 vikinguard.php:330 vikinguard.php:388
+msgid "Mail"
+msgstr "Correo"
+
+#: vikinguard.php:201 vikinguard.php:422
+msgid "you must accept Vikinguard's terms"
+msgstr "debe aceptar los términos de uso de Vikinguard"
+
+#: vikinguard.php:202 vikinguard.php:423
+msgid "I agree to the "
+msgstr "He leído y acepto los "
+
+#: vikinguard.php:203 vikinguard.php:424
+msgid "Terms of Service."
+msgstr "Términos del servicio"
+
+#: vikinguard.php:206
+msgid "Select an existing web ..."
+msgstr "Seleccione una web ya configurada…"
+
+#: vikinguard.php:221
+msgid "Use this web"
+msgstr "Usar esta web"
+
+#: vikinguard.php:222 vikinguard.php:246 vikinguard.php:427
+msgid "You must accept the terms\\n"
+msgstr "Debes aceptar nuestros términos y condiciones"
+
+#: vikinguard.php:230
+msgid "... or add a new one"
+msgstr "… o añada una nueva"
+
+#: vikinguard.php:233 vikinguard.php:409
+msgid "This is just a name to refer to your web."
+msgstr "Esto es solo un nombre para referirse a su web."
+
+#: vikinguard.php:233
+msgid "Your New Web Name"
+msgstr "Su nuevo nombre de la Web"
+
+#: vikinguard.php:235
+msgid "Web name"
+msgstr "Nombre de la web"
+
+#: vikinguard.php:239 vikinguard.php:415
+msgid ""
+"Vikinguard is going to use this address to monitor the uptime of your web. "
+"Please, check the http and https is correct configured. Do not use private "
+"or localhost address, use your public ip or domain to allow Vikinguard to "
+"access to your web."
+msgstr ""
+"Vikinguard se va a utilizar esta dirección para monitorear el uptime de tu "
+"web. Por favor, compruebe el http y https está correctamente configurado. No "
+"use dirección privada o localhost, usar tu ip pública o dominio para "
+"permitir Vikinguard acceder a su web."
+
+#: vikinguard.php:240
+msgid "Your new web address"
+msgstr "Su nueva dirección web"
+
+#: vikinguard.php:242 vikinguard.php:418
+msgid "Web URL"
+msgstr "Web URL"
+
+#: vikinguard.php:246
+msgid "Web Name too short"
+msgstr "¡Nombre demasiado corto!"
+
+#: vikinguard.php:246 vikinguard.php:427
+msgid "Short url must start by http:// or https://"
+msgstr "La dirección debe empezar por http:// o https://"
+
+#: vikinguard.php:246 vikinguard.php:427
+msgid ""
+"We have noticed that you configured Vikinguard to monitor a demo/test "
+"environment (localhost or 127.0.0.1). Please note that without real traffic "
+"and no public URL, you will not be able to monitor neither uptime neither "
+"real user experience and you will lose some important functionalities of our "
+"tool"
+msgstr ""
+"Nos hemos dado cuenta de que ha configurado Vikinguard para supervisar un "
+"entorno de demostración / prueba (localhost o 127.0.0.1). Por favor, tenga "
+"en cuenta que sin tráfico real y sin dirección URL pública, usted no será "
+"capaz de controlar ni la experiencia ni el tiempo de actividad de usuario "
+"real y usted perderá algunas funcionalidades importantes de nuestra "
+"herramienta"
+
+#: vikinguard.php:246 vikinguard.php:299 vikinguard.php:427
+msgid "Communication problem. Please try again later."
+msgstr "Problema de comunicación. Por favor vuelva a intentarlo más tarde."
+
+#: vikinguard.php:247
+msgid "Add it!"
+msgstr "¡Añadir!"
+
+#: vikinguard.php:268
+msgid "You do not have enough rights to configure this web."
+msgstr "No tienes suficientes derechos para configurar esta web."
+
+#: vikinguard.php:270 vikinguard.php:371
+msgid "to reset the configuration"
+msgstr "para reconfigurar"
+
+#: vikinguard.php:292
+msgid "Please introduce your email to configure Vikinguard"
+msgstr "Introduzca su correo electrónico para configurar Vikinguard"
+
+#: vikinguard.php:295 vikinguard.php:332
+msgid "Mail address"
+msgstr "Dirección de correo"
+
+#: vikinguard.php:297
+msgid ""
+"If you want to sign up, introduce your mail. If you are already registered, "
+"use your mail to sign in."
+msgstr ""
+"Si desea registrarse, introduzca su correo. Si ya estás registrado, escriba "
+"su correo igualmente para iniciar sesión."
+
+#: vikinguard.php:299
+msgid "Check your email"
+msgstr "Consulte su correo electrónico"
+
+#: vikinguard.php:301 vikinguard.php:428
+msgid "Send it"
+msgstr "Enviar"
+
+#: vikinguard.php:302
+msgid "Introduce your mail"
+msgstr "Introduzca tu correo"
+
+#: vikinguard.php:305
+msgid "Do you have any problem? Please click here"
+msgstr "¿Tienes algún problema? Haga clic aquí"
+
+#: vikinguard.php:309
+msgid "We are not going to spam you"
+msgstr "No vamos a enviarte Spam"
+
+#: vikinguard.php:309
+msgid ""
+"We are committed to keeping your e-mail address confidential. We do not "
+"sell, rent, or lease our subscription lists to third parties, and we will "
+"not provide your personal information to any third party individual, "
+"government agency, or company at any time unless compelled to do so by law."
+msgstr ""
+"Estamos comprometidos a mantener su dirección de correo electrónico "
+"confidencial. No vendemos, alquilamos, o alquilamos nuestras listas de "
+"suscripción a terceros, y no vamos a proporcionar su información personal a "
+"cualquier tercera persona  a menos que obligados a hacerlo por ley."
+
+#: vikinguard.php:325
+msgid "Introduce your password to reconfigure the module."
+msgstr "Introduzca  su password para reconfigurar el módulo"
+
+#: vikinguard.php:334
+msgid "That email address is invalid"
+msgstr "dirección email inválida"
+
+#: vikinguard.php:338 vikinguard.php:341 vikinguard.php:394
+msgid "Password"
+msgstr "Contraseña"
+
+#: vikinguard.php:343 vikinguard.php:396
+msgid "minimum 6 caracters"
+msgstr "al menos 6 caracters"
+
+#: vikinguard.php:345
+msgid "Did you forget your password? Click"
+msgstr "¿Olvidó su contraseña? Haga clic"
+
+#: vikinguard.php:347
+msgid " here"
+msgstr "aquí"
+
+#: vikinguard.php:350
+msgid "check your password"
+msgstr "Consulta tu correo electrónico"
+
+#: vikinguard.php:350
+msgid "Communication problem. Please try again later"
+msgstr "Problema de comunicación. Por favor vuelva a intentarlo más tarde."
+
+#: vikinguard.php:352
+msgid "Sign in"
+msgstr "Iniciar sesión"
+
+#: vikinguard.php:368
+msgid "VIKINGUARD IS CONFIGURED"
+msgstr "VIKINGUARD ESTA CONFIGURADO"
+
+#: vikinguard.php:386
+msgid "1) Select a password:"
+msgstr "1) Seleccione una contraseña"
+
+#: vikinguard.php:391
+msgid "Choose a Password"
+msgstr "Elija una contraseña"
+
+#: vikinguard.php:398
+msgid "Confirm the Password"
+msgstr "Confirma la contraseña"
+
+#: vikinguard.php:401
+msgid "Whoops, these don't match"
+msgstr "Upps, No son iguales"
+
+#: vikinguard.php:402
+msgid "Confirm"
+msgstr "Confirma"
+
+#: vikinguard.php:405
+msgid "2) Review/Modify:"
+msgstr "2) Revisa/Modifica"
+
+#: vikinguard.php:409
+msgid "Your web Name"
+msgstr "El nombre de su web"
+
+#: vikinguard.php:411
+msgid "Customer name"
+msgstr "El nombre de cliente"
+
+#: vikinguard.php:416
+msgid "Your Web Address"
+msgstr "Dirección Web"
+
+#: vikinguard.php:427
+msgid "Customer Name too short"
+msgstr "El nombre del nombre de cliente es demasiado corto"
+
+#: vikinguard.php:427
+msgid "Password too short"
+msgstr "La contraseña es demasiado corta"
+
+#: vikinguard.php:427
+msgid "Whoops, these passwords do not match"
+msgstr "Upps, No son iguales"
+
+#: vikinguard.php:427
+msgid "Check your email configuration"
+msgstr "Consulte la dirección de correo electrónico"
+
+#: vikinguard.php:437
+msgid "Vikinguard  Settings"
+msgstr "Configuración de Vikinguard"
+
+#: vikinguard.php:438
+msgid "Vikinguard Console"
+msgstr "Consola de Vikinguard"
+
+#. Plugin Name of the plugin/theme
+msgid "Vikinguard for woocommerce"
+msgstr "Vikinguard"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.vikinguard.com"
+msgstr "https://www.vikinguard.com"
+
+#. Description of the plugin/theme
+msgid ""
+"it checks your site uptime and real user experience. This module provides "
+"all the infomation about your site\\'s perfomance."
+msgstr ""
+"Comprueba tu disponibilidad y la experiencia de tus usuarios reales. Este "
+"módulo proporciona toda la información sobre el rendimiento de su site\\."
+
+#. Author of the plugin/theme
+msgid "Vikinguard. This is not just a software company."
+msgstr "Vikinguard. This is not just a software company."

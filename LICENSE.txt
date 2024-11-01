@@ -1,0 +1,151 @@
+EULA
+End User License Agreement for Vikinguard Software 
+
+This End-User License Agreement (“EULA” or “Agreement”) is the legal agreement between you (either an individual or a single entity) (“You” or “User”) and This Is Not Just A Software Company, SL, a Spanish duly registered company in the Commercial Registry of Madrid, with TAX number B87309241, with registered office in C/ Faraday 7, (28049) Madrid (“TINJASC”); author and holder of all the rights of the Vikinguard software, which includes computer software consisting on analytic metrics based on information gathered by cookies and tags, portable devices software and may include associated media, printed materials, and “online” or electronic documentation (“Software Product”).
+
+By installing, copying, or otherwise using the Software Product, You agree to be bounded by the terms of this EULA.
+
+ 
+
+If You do not agree to the terms of this EULA, do not install or use the Software Product. BY CLICKING “I AGREE”, OR BY TAKING ANY STEP TO INSTALL OR USE THE SOFTWARE PRODUCT, YOU (1) REPRESENT THAT YOU ARE OF THE LEGAL AGE OF MAJORITY IN YOUR COUNTRY, STATE, PROVINCE JURISDICTION OF RESIDENCE AND, IF APPLICABLE, YOU ARE DULY AUTHORIZED BY YOUR EMPLOYER TO ENTER INTO THIS CONTRACT AND (2) YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT ACCEPT THE EULA TERMS, DO NOT USE THE SOFTWARE PRODUCT.
+
+ 
+
+GRANT OF LICENSE.
+The Software Product includes two types of computer software (1) that is owned by TINJASC (and may include associated media, and “online” or electronic documentation) (collectively the “Software Product”) and (2) other software provided by third parties and used with the Software Product (“Third Party Software”). TINJASC grants You the following non-exclusive rights provided You agree to and comply with all terms and conditions of this EULA:
+
+ 
+
+a) The Software Product is being distributed as Freeware for personal or commercial use. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way. You may install and use an unlimited number of copies of the Software Product.
+
+Although the Software Product is distributed as Freeware, TINJASC may create and make available to the User upon demand new features that may entail a cost. In such case, the price, including any applicable expenses, shall be invoiced by TINJASC to the User. Such invoice shall be due and paid within [10] days from the invoice date by transfer or by any other means indicated by TINJASC.
+
+ 
+
+b) Reproduction and Distribution. You may reproduce and distribute an unlimited number of copies of the Software Product; provided that each copy shall be a true and complete copy, including all copyright and trademark notices, and shall be accompanied by a copy of this EULA.
+
+Copies of the Software Product may be distributed as a standalone product. If You want to include it with Your own products, You should get THIS IS NOT JUST A SOFTWARE COMPANY, SL explicit approval first.
+
+ 
+
+c) Reservation of Rights. The Software Product is licensed, not sold, to You by TINJASC. TINJASC who owns all right, title and interest in and to the Software Product and reserve all rights not expressly granted to You in this EULA. You agree to refrain from any action that would diminish such rights or would call them into question.
+
+ 
+
+d) Third Party Software. Notwithstanding the terms and conditions of this EULA, all or any portion of the Software Product which constitutes Third Party Software, is licensed to You subject to the terms and conditions of the software license agreement accompanying such Third Party Software whether in the form of a discrete agreement, shrink wrap license or electronic license terms accepted at time of download. Use of the Third Party Software by You shall be governed entirely by the terms and conditions of such license.
+
+ 
+
+e) Technical support for the Software Product will be free for the first thirty (30) days after the activation date. Support will be available via e-mail during regular business hours CET. After 30 days, Technical Support may be offered by TINJASC as a paid support service.
+
+ 
+
+UPGRADES.
+To use a Software Product identified by TINJASC as an upgrade, You must first be licensed for the original Software Product identified by TINJASC as eligible for the upgrade. After upgrading, You may no longer use the original Software Product that formed the basis for Your upgrade eligibility and the upgraded software shall be deemed the “Software Product”. The Software Product upgrades are FREE of charge.
+
+ 
+
+ADDITIONAL SOFTWARE.
+This EULA applies to updates or supplements to the original Software Product provided by TINJASC unless TINJASC provides other terms along with the update or supplement. In case of a conflict between such terms, the other terms will prevail.
+
+ 
+
+TRANSFER.
+a) Third Party. The Software Product may only be transferred to another end user as part of a transfer of the computer(s) on which it is installed. Any transfer must include all component parts, media, printed materials and this EULA. Prior to the transfer, the end user receiving the transferred product must agree to all the EULA terms. Upon transfer of Your computer(s), Your license is automatically terminated and You are no longer permitted to use the Software Product.
+b) You may not rent, lease or lend the Software Product or use the Software Product for commercial timesharing or bureau use. You may not sublicense, assign or transfer the license or Software Product except as expressly provided in this EULA.
+
+ 
+
+INTELLECTUAL PROPERTY RIGHTS.
+All intellectual property rights in the Software Product and user documentation are owned by TINJASC or its suppliers and are protected by law, including but not limited to copyright, trade secret, and trademark law, as well as other applicable laws and international treaty provisions. The structure, organization and code of the Software Product are the valuable trade secrets and confidential information of TINJASC and its suppliers. You shall not remove any product identification, copyright notices or proprietary restrictions from the Software Product.
+
+ 
+
+LIMITATION ON REVERSE ENGINEERING.
+Except to the extent that such restriction is not permitted under applicable law, You are not permitted (and You agree not to) reverse engineer, decompile, disassemble or create derivative works of or modify the Software Product. Nothing contained herein shall be construed, expressly or implicitly, as transferring any right, license or title to You other than those explicitly granted under this EULA. TINJASC reserves all rights in its intellectual property rights not expressly agreed to herein. Unauthorized copying of the Software Product or failure to comply with the restrictions in this EULA (or other breach of the license herein) will result in automatic termination of this Agreement and You agree that it will constitute immediate, irreparable harm to TINJASC for which monetary damages would be an inadequate remedy, and that injunctive relief will be an appropriate remedy for such breach.
+
+ 
+
+TERM AND TERMINATION.
+This EULA shall continue for as long as the Software Product is used according to the terms of this Agreement. However, TINJASC may terminate this EULA and revoke the granted license if You fail to comply with any of its terms and conditions. In such event, You must destroy all copies of the Software Product upon TINJASC request. The limitations of warranties and liability set forth in this EULA shall continue in force even after termination.
+
+TINJASC may terminate this Agreement and/or cancel the Software Product at any time, with or without cause, in which case no penalties or indemnification rights will arise in favor of the User or any third party. Termination of this EULA shall not relieve User of its obligation to pay any fees that the User may owe prior to the termination date under this Agreement.
+
+ 
+
+DATA COLLECTION TECHNOLOGY.
+TINJASC informs the User that the Software Product may use data collection technology, such as cookies, to collect technical information to improve the Software Product, to adapt it to user preferences and to prevent the unlicensed or illegal use of the Software Product. You accept that TINJASC may use such information as part of the services provided and for commercial purposes. The User acknowledges and accepts that TINJASC may provide updates or additions to the Software Product which automatically downloads to your device.
+
+You agree that TINJASC and its affiliates or suppliers may collect and use statistics for commercial purposes on your use of the Software Product, the name of the domain of your website and its performance, end users experience and any other web-site information related to the Software Product.
+
+TINJASC and its suppliers may use this information in a form that personally identifies You or your final users, to the extent necessary to provide such services. In this sense, TINJASC and its suppliers comply with the Applicable Data Protection Legislation (according to its definition down below) and will process the personal information accordingly with what is established in Clause 9 (Personal Data Protection). Therefore, You must inform your Users of this circumstance and collect their consent regarding the communication of information that may identify them.
+
+The data collected from your Users will be used for different purposes:
+
+1- To provide core TINJASC product features as pages’ response time, loading time, accessing devices, geolocation positioning, etc…
+
+2- For commercial purposes, as online advertisement campaigns.
+
+In case you need more details on the usage of this end user data (which is in no case personal data), please forward your question at info@vikinguard.com.
+
+ 
+
+PERSONAL DATA PROTECTION
+In compliance with the Spanish Data Protection Act and the General Data Protection Regulation (UE) (collectively the “Applicable Data Protection Legislation”), TINJASC informs the User of the existence of an automated personal data file denominated “Usuarios” managed and responsibility of TINJASC in which the personal data needed to properly carry out this Agreement are included. TINJASC is the controller of this duly registered file in the Spanish Data Protection Agency Registry.
+
+The User shall comply with the Applicable Data Protection Legislation. In this sense, You ensure that any consents from your clients and final users required by the Applicable Data Protection Legislation for the collection and communication of data to TINJASC, and further use of such data by TINJASC and third parties, have been obtained prior to the use of the Software Product and in compliance with the obligations set forth in the Applicable Data Protection Legislation. User agrees to provide confirmation and evidence of such consents upon request of TINJASC. In this sense, User warrants:
+
+a) User has full and sufficient right, title and authority to assign or grant the rights or licenses granted to TINJASC under this EULA;
+
+b) User has provided all necessary notices and obtained all necessary consents from its clients and final users which are required to assign or grant the rights or licenses under this Agreement;
+
+c) User does not infringe any data, privacy, publicity or similar rights of any third party, nor has any claim (whether or not embodied in an action, past or present) of such infringement been threatened or asserted, and no such claim is pending against User.
+
+d) User shall implement all necessary measures in order to avoid collecting any data of personal information from children under the age of sixteen (16).
+
+TINJASC expressly represents that the personal data ease by the User shall not be communicated or accessed by third parties in any case, safe to otherwise mentioned in this Agreement. Nevertheless, if any communication should take place TINJASC shall previously obtain the User´s express, inform and unequivocally consent. In this sense, TINJASC shall ensure that all technical and organizational measures are being adopted in order to grant the security and integrity of the personal data and to avoid data being lost, alter and access by non-authorized third parties.
+
+TINJASC will keep your personal data for the time necessary in relation with the purpose for what the personal data was recollected; afterwards, the personal data shall be blocked until the legal periods are terminated, in that moment TINJASC shall proceed to the erasure of the personal data.
+
+However, the abovementioned periods will not take place as soon as You exercise any of the rights granted to the data subject by the Applicable Data Protection Legislation.
+
+The User can exercise the rights to erase, restriction of processing, data portability, access, rectification, cancellation and opposition to the process of the personal data by writing a letter, accompanied by a copy of an official document evidencing the identity of the data subject to and representation of the User to This is not Just a Software Company, S.L., with address C/ Faraday 7, (28049) Madrid or by email info@vikinguard.com.
+
+The services provided by TINJASC through the Software Product do not imply an access to the User´s clients or final users’ personal data. Therefore, TINJASC has no responsibility in the process of such personal data. You grant to maintain TINJASC harmless of any liability corresponding to such personal data processes.
+
+ 
+
+DISCLAIMER OF WARRANTIES.
+a) NO WARRANTIES: TINJASC expressly disclaims any warranty for the Software Product. The Software Product and any related documentation is provided “as is” without warranty of any kind, either express or implied, including, without limitation warranties of title and non-infringement, any implied warranties, duties or conditions of merchantability, of fitness for a particular purpose, and of lack of viruses all with regard to the software product and third party software. No oral or written information or advice given by sac or a sac authorized representative shall create a warranty. Some states/jurisdictions do not allow exclusion of implied warranties or limitations on the duration of implied warranties, so the above disclaimer may not apply to You in its entirety. To the extent applicable law requires SAC to provide warranties, You agree that the scope and duration of such warranty shall be to the minimum extent permitted under such applicable law. Computer software is inherently subject to bugs and potential incompatibility with other computer software and hardware. You should not use the Software Product for any applications in which failure could cause any significant damage or injury to persons or tangible or intangible property. The entire risk arising out of use or performance of the Software Product remains with You.
+b) NO LIABILITY FOR DAMAGES: In no event shall TINJASC be liable for any special, consequential, incidental or indirect damages whatsoever (including, but not limited to, damages for loss of profits, for loss of data or other information, for business interruption, for personal injury, for loss of privacy or in any way related to the use of or inability to use the software product, third party software and/or third party hardware used with the software product, or otherwise in connection with any provision of this EULA) arising out of the use of or inability to use this product, even if TINJASC is aware of the possibility of such damages and known defects.
+c) NO LIABILITY FOR SERVICE CANCELATION OR MODIFICATION. TINJASC may choose to stop, suspend or modify the services (or any portion of it) and product features at any time without prior notice.
+
+ 
+
+INDEMNITY.
+You agree to indemnify and hold TINJASC and its officers, directors, employees and licensors harmless from any claim or demand (including but not limited to reasonable legal fees) made by a third party due to or arising out of or related to your violation of the terms and conditions of this Agreement, your violation of any laws, regulations or third party rights or your negligent act, omission or wilful misconduct.
+
+ 
+
+NOTICES.
+To You:
+
+Except as otherwise set forth herein, notices made by TINJASC to You under this EULA will be provided to You via the email address provided by You to TINJASC in the registration process You followed when You acquired the Software Product. It is your responsibility to keep your email address current and You will be deemed to have received any email sent to any such email address, upon TINJASC’s sending of the email, whether or not You actually receive the email.
+
+To TINJASC:
+
+For notices made by You to TINJASC under this Agreement and for questions regarding this EULA or the Software Product, You may contact us through info@vikinguard.com.
+
+ 
+
+APPLICABLE LAW AND JURISDICTION.
+This Agreement shall be governed by, and interpreted under, the laws of Spain, without application of rules on conflicts of laws.
+
+The parties hereby agree to submit all disputes, controversies or claims that may arise between them that directly or indirectly relate to this EULA, to the exclusive jurisdiction to the Courts of the city of Madrid, expressly waiving any other jurisdiction to which they may be entitled to.
+
+ 
+
+ENTIRE AGREEMENT.
+This EULA is the entire Agreement between You and TINJASC relating to the Software Product and it supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the Software Product or any other subject matter covered by this EULA. To the extent the terms of any TINJASC policies or programs for support services conflict with the terms of this EULA, the terms of this EULA shall control. If any provision of this EULA is held by a court of competent jurisdiction to be contrary to law, such provision will be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law and the remaining provision of the EULA will remain in force and effect.
+
+ 
